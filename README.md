@@ -21,7 +21,7 @@ Before running the tests, ensure you have the following installed:
 2. Navigate to the project directory:
 
    ```bash
-   cd cypress-ts-test-suite
+   cd intech
    ```
 
 3. Install dependencies:
@@ -105,21 +105,3 @@ npx cypress run
 ├── cypress.config.ts         # Cypress configuration
 └── package.json              # Project dependencies and scripts
 ```
-
-## Contribution
-
-If you wish to contribute to this project:
-
-1. Fork the repository.
-2. Create a new branch:
-
-   ```bash
-   git checkout -b feature/your-feature
-   ```
-
-3. Commit your changes and push to the branch.
-4. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
