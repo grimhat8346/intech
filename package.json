@@ -1,0 +1,17 @@
+{
+	"name": "intech",
+	"version": "1.0.0",
+	"description": "Cypress Test Suite",
+	"scripts": {
+		"cypress:open": "cypress open",
+		"cypress:run": "cypress run",
+		"test": "cypress run"
+	},
+	"devDependencies": {
+		"@testing-library/cypress": "^10.0.2",
+		"@types/node": "^20.17.10",
+		"cypress": "^13.17.0",
+		"ts-node": "^10.9.1",
+		"typescript": "^5.7.2"
+	}
+}
